@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [9.1.0](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/compare/v9.0.2...v9.1.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#302](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/issues/302)) ([0bbdf8e](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/commit/0bbdf8ec96d0ddf856411f0599aa5f311c28e3a9))
+
 ## [9.0.2](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/compare/v9.0.1...v9.0.2) (2025-10-21)
 
 ### Bug Fixes
