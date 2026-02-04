@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [9.2.0](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/compare/v9.1.0...v9.2.0) (2026-02-04)
+
+### Features
+
+* Network Performance Options ([#303](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/issues/303)) ([bfa8271](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/commit/bfa827159dc3d5b29f23bbf44ac22675c04bbf8f))
+
 ## [9.1.0](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/compare/v9.0.2...v9.1.0) (2026-01-08)
 
 ### Features
